@@ -1,0 +1,126 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+SOT323
+SOT23
+$EndINDEX
+$MODULE SOT323
+Po 0 0 0 15 00000000 00000000 ~~
+Li SOT323
+Cd <li><b>SOT323</b><hr><ul><li>Plastic surface-mounted package; 3 leads<li><u>JEDEC</u>: --<li><u>IEC</u>: --<li><u>JEITA</u>: SC-70</ul>
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0.1
+.SolderPaste 0
+T0 4 -1 0.787402 0.787402 0 0.05 N V 21 "SOT323"
+T1 4.5 0.5 0.787402 0.787402 0 0.05 N V 21 "VAL**"
+DS 1 -0.625 1 0.625 0.127 24
+DS 1 0.625 -1 0.625 0.127 24
+DS -1 0.625 -1 -0.625 0.127 24
+DS -1 -0.625 1 -0.625 0.127 24
+DS 0.5 -0.625 1 -0.625 0.127 21
+DS 1 -0.625 1 0.375 0.127 21
+DS -0.5 -0.625 -1 -0.625 0.127 21
+DS -1 -0.625 -1 0.375 0.127 21
+DS -0.125 0.625 0.125 0.625 0.127 21
+DP 0 0 0 0 4 0.381 24
+Dl 0.85 0.625
+Dl 0.85 0.925
+Dl 0.45 0.925
+Dl 0.45 0.625
+DP 0 0 0 0 4 0.381 24
+Dl -0.45 0.625
+Dl -0.45 0.925
+Dl -0.85 0.925
+Dl -0.85 0.625
+DP 0 0 0 0 4 0.381 24
+Dl 0.2 -0.925
+Dl 0.2 -0.625
+Dl -0.2 -0.625
+Dl -0.2 -0.925
+$PAD
+Sh "2" R 0.6 0.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 0.65 0.925
+$EndPAD
+$PAD
+Sh "1" R 0.6 0.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -0.65 0.925
+$EndPAD
+$PAD
+Sh "3" R 0.6 0.6 0 0 2700
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 0 -0.925
+$EndPAD
+$EndMODULE SOT323
+$MODULE SOT23
+Po 0 0 0 15 00000000 00000000 ~~
+Li SOT23
+Cd <li><b>SOT23</b><hr> <ul><li>Plastic surface-mounted package; 3 leads<li><u>JEDEC</u>: TO-236AB <li><u>IEC</u>: -- <li><u>JEITA</u>: --</ul>
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0.1
+.SolderPaste 0
+T0 4.5 -0.99 0.787402 0.787402 0 0.05 N V 21 "SOT23"
+T1 5 0.5 0.787402 0.787402 0 0.05 N V 21 "VAL**"
+DS 1.4224 -0.6604 1.4224 0.6604 0.1524 24
+DS 1.4224 0.6604 -1.4224 0.6604 0.1524 24
+DS -1.4224 0.6604 -1.4224 -0.6604 0.1524 24
+DS -1.4224 -0.6604 1.4224 -0.6604 0.1524 24
+DS -1.4224 0.1524 -1.4224 -0.6604 0.1524 21
+DS -1.4224 -0.6604 -0.8636 -0.6604 0.1524 21
+DS 1.4224 -0.6604 1.4224 0.1524 0.1524 21
+DS 0.8636 -0.6604 1.4224 -0.6604 0.1524 21
+DP 0 0 0 0 4 0.381 24
+Dl -0.2286 -1.2954
+Dl 0.2286 -1.2954
+Dl 0.2286 -0.7112
+Dl -0.2286 -0.7112
+DP 0 0 0 0 4 0.381 24
+Dl 0.7112 0.7112
+Dl 1.1684 0.7112
+Dl 1.1684 1.2954
+Dl 0.7112 1.2954
+DP 0 0 0 0 4 0.381 24
+Dl -1.1684 0.7112
+Dl -0.7112 0.7112
+Dl -0.7112 1.2954
+Dl -1.1684 1.2954
+$PAD
+Sh "1" R 1 1.4 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po -0.95 1.1
+$EndPAD
+$PAD
+Sh "2" R 1 1.4 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 0.95 1.1
+$EndPAD
+$PAD
+Sh "3" R 1 1.4 0 0 0
+At SMD N 00888000
+.SolderMask 0.2
+.SolderPaste 0
+Ne 0 ""
+Po 0 -1.1
+$EndPAD
+$EndMODULE SOT23
