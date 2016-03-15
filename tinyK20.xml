@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/karibe/src/git/tinyk20/tinyK20.sch</source>
+    <date>Tue 15 Mar 2016 11:41:11 AM EAT</date>
+    <tool>Eeschema 4.0.2-4+6225~38~ubuntu14.04.1-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>tinyk20</title>
+        <company>karibe.ch</company>
+        <rev>1</rev>
+        <date>1 mar 2016</date>
+        <source>tinyK20.sch</source>
+        <comment number="1" value="@muriukidavid"/>
+        <comment number="2" value="David M. Karibe"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>MK20DX128VFT5</value>
+      <footprint>Housings_DFN_QFN:QFN-48-1EP_7x7mm_Pitch0.5mm</footprint>
+      <libsource lib="tinyK20-cache" part="MK20DX128VFT5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55B6A915</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>BAS40-05</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="tinyK20-cache" part="BAS40-05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55B6A960</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="C-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55B6A9BC</tstamp>
+    </comp>
+    <comp ref="CON1">
+      <value>USB-MINI-B</value>
+      <footprint>Connect:USB_Mini-B</footprint>
+      <libsource lib="tinyK20-cache" part="USB-MINI-B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55B6AB5B</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>LT1129CST-3.3</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-223</footprint>
+      <libsource lib="regul" part="LT1129CST-3.3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D0C41D</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="C-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D0C4B1</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="C-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D0C5A3</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LEDs:LED_0603</footprint>
+      <libsource lib="tinyK20-rescue" part="LED-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D0C71A</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="R-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D0C729</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>33</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="R-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D15352</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>33</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="R-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D15361</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>2.2u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="C-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D157C4</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="C-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D157D3</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="C-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D157E2</tstamp>
+    </comp>
+    <comp ref="P3">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D15A9F</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>470</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="R-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D15C8C</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>2.2u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="C-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D15CA5</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="C-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D15CB4</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="C-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D16C6E</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D16D83</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D16DAB</tstamp>
+    </comp>
+    <comp ref="P4">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D16ED8</tstamp>
+    </comp>
+    <comp ref="P5">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D16F5A</tstamp>
+    </comp>
+    <comp ref="P6">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D16F69</tstamp>
+    </comp>
+    <comp ref="P7">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D170A1</tstamp>
+    </comp>
+    <comp ref="P8">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D170C9</tstamp>
+    </comp>
+    <comp ref="P9">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D170EC</tstamp>
+    </comp>
+    <comp ref="P10">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D17398</tstamp>
+    </comp>
+    <comp ref="P11">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D173A7</tstamp>
+    </comp>
+    <comp ref="P12">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D173B6</tstamp>
+    </comp>
+    <comp ref="P34">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D17BED</tstamp>
+    </comp>
+    <comp ref="P33">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D17C06</tstamp>
+    </comp>
+    <comp ref="P32">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D17DA1</tstamp>
+    </comp>
+    <comp ref="P31">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D17DB0</tstamp>
+    </comp>
+    <comp ref="P30">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D17DBF</tstamp>
+    </comp>
+    <comp ref="P29">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D17DCE</tstamp>
+    </comp>
+    <comp ref="P28">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D17DDD</tstamp>
+    </comp>
+    <comp ref="P27">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D18119</tstamp>
+    </comp>
+    <comp ref="P26">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D18128</tstamp>
+    </comp>
+    <comp ref="P25">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D18137</tstamp>
+    </comp>
+    <comp ref="P24">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D18146</tstamp>
+    </comp>
+    <comp ref="P23">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D18155</tstamp>
+    </comp>
+    <comp ref="P22">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D18164</tstamp>
+    </comp>
+    <comp ref="P21">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D18173</tstamp>
+    </comp>
+    <comp ref="P20">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D18182</tstamp>
+    </comp>
+    <comp ref="P19">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D18191</tstamp>
+    </comp>
+    <comp ref="P18">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D181A0</tstamp>
+    </comp>
+    <comp ref="P17">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D181AF</tstamp>
+    </comp>
+    <comp ref="P16">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D181BE</tstamp>
+    </comp>
+    <comp ref="P15">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D181CD</tstamp>
+    </comp>
+    <comp ref="P14">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D181DC</tstamp>
+    </comp>
+    <comp ref="P13">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D181EB</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="C-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D1BA48</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>BAS40-05</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="tinyK20-cache" part="BAS40-05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D1BA57</tstamp>
+    </comp>
+    <comp ref="P40">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D1BDE4</tstamp>
+    </comp>
+    <comp ref="P35">
+      <value>CONN_5X2</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x05_Pitch1.27mm</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_5X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D1C1DE</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_PUSH</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_EVQPE1</footprint>
+      <libsource lib="device" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D1C4B4</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="R-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D1CB17</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="C-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D1CF97</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>2.2u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="C-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D4C68D</tstamp>
+    </comp>
+    <comp ref="X3">
+      <value>MOLEX-MICRO-SD</value>
+      <footprint>Connect:SD_Card_Receptacle</footprint>
+      <libsource lib="tinyK20-cache" part="MOLEX-MICRO-SD"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D4DD17</tstamp>
+    </comp>
+    <comp ref="JP2">
+      <value>JUMPER_F</value>
+      <footprint>Connect:PINHEAD1-2</footprint>
+      <libsource lib="tinyK20-cache" part="JUMPER_F"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D4E64D</tstamp>
+    </comp>
+    <comp ref="JP3">
+      <value>JUMPER_F</value>
+      <footprint>Connect:PINHEAD1-2</footprint>
+      <libsource lib="tinyK20-cache" part="JUMPER_F"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D4E666</tstamp>
+    </comp>
+    <comp ref="JP1">
+      <value>JUMPER_F</value>
+      <footprint>Connect:PINHEAD1-2</footprint>
+      <libsource lib="tinyK20-cache" part="JUMPER_F"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D4EBDB</tstamp>
+    </comp>
+    <comp ref="L2">
+      <value>INDUCTOR_F</value>
+      <footprint>Inductors_NEOSID:Neosid_Inductor_SM1206</footprint>
+      <libsource lib="tinyK20-cache" part="INDUCTOR_F"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D4F30C</tstamp>
+    </comp>
+    <comp ref="L3">
+      <value>INDUCTOR_F</value>
+      <footprint>Inductors_NEOSID:Neosid_Inductor_SM1206</footprint>
+      <libsource lib="tinyK20-cache" part="INDUCTOR_F"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D4F638</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>FUSE_F</value>
+      <footprint>Wire_Connections_Bridges:WireConnection_0.80mmDrill</footprint>
+      <libsource lib="tinyK20-cache" part="FUSE_F"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D512D5</tstamp>
+    </comp>
+    <comp ref="P38">
+      <value>CONN_5X2</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x05_Pitch1.27mm</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_5X2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D5175F</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>74LS126</value>
+      <footprint>SMD_Packages:SOIC-14_N</footprint>
+      <libsource lib="74xx" part="74LS126"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D518E7</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="R-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D51F77</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="tinyK20-rescue" part="C-RESCUE-tinyK20"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D52776</tstamp>
+    </comp>
+    <comp ref="P36">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D530B8</tstamp>
+    </comp>
+    <comp ref="P37">
+      <value>CONN_1</value>
+      <footprint>Connect:1pin</footprint>
+      <libsource lib="tinyK20-cache" part="CONN_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D530C7</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>INDUCTOR_F</value>
+      <footprint>Inductors_NEOSID:Neosid_Inductor_SM1206</footprint>
+      <libsource lib="tinyK20-cache" part="INDUCTOR_F"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56D4F84D</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal</value>
+      <footprint>Crystals:ABM3</footprint>
+      <libsource lib="device" part="Crystal"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56E57CAE</tstamp>
+    </comp>
+    <comp ref="Y2">
+      <value>Crystal_Small</value>
+      <footprint>Crystals:Crystal_Round_Horizontal_3mm_BigPad</footprint>
+      <libsource lib="device" part="Crystal_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56E58AF1</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="74LS126">
+      <description>Quad buffer 3 State out</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74LS126</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="3state"/>
+        <pin num="4" name="E" type="input"/>
+        <pin num="5" name="D" type="input"/>
+        <pin num="6" name="O" type="3state"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="~" type="3state"/>
+        <pin num="9" name="D" type="input"/>
+        <pin num="10" name="E" type="input"/>
+        <pin num="11" name="~" type="3state"/>
+        <pin num="12" name="~" type="input"/>
+        <pin num="13" name="E" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="tinyK20-cache" part="BAS40-05">
+      <footprints>
+        <fp>SOT323</fp>
+        <fp>SOT23</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAS40-05</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+        <pin num="3" name="K1K2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="tinyK20-rescue" part="C-RESCUE-tinyK20">
+      <footprints>
+        <fp>SM*</fp>
+        <fp>C?</fp>
+        <fp>C1-1</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-RESCUE-tinyK20</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="tinyK20-cache" part="CONN_1">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="tinyK20-cache" part="CONN_5X2">
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_5X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5" name="~" type="passive"/>
+        <pin num="6" name="~" type="passive"/>
+        <pin num="7" name="~" type="passive"/>
+        <pin num="8" name="~" type="passive"/>
+        <pin num="9" name="~" type="passive"/>
+        <pin num="10" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="Crystal">
+      <description>Two pin crystal</description>
+      <footprints>
+        <fp>Crystal_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="Crystal_Small">
+      <description>Two pin crystal</description>
+      <footprints>
+        <fp>Crystal_</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="tinyK20-cache" part="FUSE_F">
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">FUSE_F</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="tinyK20-cache" part="INDUCTOR_F">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR_F</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="tinyK20-cache" part="JUMPER_F">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">JUMPER_F</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="tinyK20-rescue" part="LED-RESCUE-tinyK20">
+      <footprints>
+        <fp>LED-3MM</fp>
+        <fp>LED-5MM</fp>
+        <fp>LED-10MM</fp>
+        <fp>LED-0603</fp>
+        <fp>LED-0805</fp>
+        <fp>LED-1206</fp>
+        <fp>LEDV</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED-RESCUE-tinyK20</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="regul" part="LT1129CST-3.3">
+      <aliases>
+        <alias>LT1129IST-3.3</alias>
+        <alias>LT1129MPST-3.3</alias>
+        <alias>LT1129CST-5</alias>
+        <alias>LT1129IST-5</alias>
+      </aliases>
+      <description>700 mA Low Dropout Voltage Regulator, Fixed 3.3V, SOT-223</description>
+      <docs>http://cds.linear.com/docs/en/datasheet/112935ff.pdf</docs>
+      <footprints>
+        <fp>SOT*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LT1129CST-3.3</field>
+        <field name="Footprint">SOT-223</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="tinyK20-cache" part="MK20DX128VFT5">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MK20DX128VFT5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="input"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="USB_DP" type="input"/>
+        <pin num="4" name="USB_DM" type="input"/>
+        <pin num="5" name="VOUT33" type="input"/>
+        <pin num="6" name="VREGIN" type="input"/>
+        <pin num="7" name="ADC0_DP0" type="input"/>
+        <pin num="8" name="ADC0_DM0" type="input"/>
+        <pin num="9" name="VDDA" type="input"/>
+        <pin num="10" name="VREFH" type="input"/>
+        <pin num="11" name="VREFL" type="input"/>
+        <pin num="12" name="VSSA" type="input"/>
+        <pin num="13" name="VREF_OUT" type="input"/>
+        <pin num="14" name="XTAL_32" type="input"/>
+        <pin num="15" name="EXTAL_32" type="input"/>
+        <pin num="16" name="VBAT" type="input"/>
+        <pin num="17" name="PTA0/SWD_CLK" type="input"/>
+        <pin num="18" name="PTA1" type="input"/>
+        <pin num="19" name="PTA2" type="input"/>
+        <pin num="20" name="PTA3_SWDIO" type="input"/>
+        <pin num="21" name="PTA4" type="input"/>
+        <pin num="22" name="VDD" type="power_in"/>
+        <pin num="23" name="VSS" type="input"/>
+        <pin num="24" name="PTA18/EXTAL0" type="input"/>
+        <pin num="25" name="PTA19/XTAL0" type="input"/>
+        <pin num="26" name="RESET_b" type="input"/>
+        <pin num="27" name="LLU_P/PTB0" type="input"/>
+        <pin num="28" name="PTB1" type="input"/>
+        <pin num="29" name="PTB2" type="input"/>
+        <pin num="30" name="PTB3" type="input"/>
+        <pin num="31" name="PTB16" type="input"/>
+        <pin num="32" name="PTB17" type="input"/>
+        <pin num="33" name="PTC0" type="input"/>
+        <pin num="34" name="LLWU_P6/RTC_CL/PTC1" type="input"/>
+        <pin num="35" name="PTC2" type="input"/>
+        <pin num="36" name="LLWU_P7/PTC3" type="input"/>
+        <pin num="37" name="LLWU_P8/PTC4" type="input"/>
+        <pin num="38" name="LLWU_P9/PTC5" type="input"/>
+        <pin num="39" name="LLWU_P10/PTC6" type="input"/>
+        <pin num="40" name="PTC7" type="input"/>
+        <pin num="41" name="PTD0" type="input"/>
+        <pin num="42" name="PTD1" type="input"/>
+        <pin num="43" name="PTD2" type="input"/>
+        <pin num="44" name="PTD3" type="input"/>
+        <pin num="45" name="LLWU_P14/PTD4" type="input"/>
+        <pin num="46" name="PTD5" type="input"/>
+        <pin num="47" name="LLWU_P15/PTD6" type="input"/>
+        <pin num="48" name="PTD7" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="tinyK20-cache" part="MOLEX-MICRO-SD">
+      <description>Molex micro SD card</description>
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">MOLEX-MICRO-SD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="SWITCH" type="output"/>
+        <pin num="3" name="CMD_(MOSI)" type="input"/>
+        <pin num="4" name="CLK_(SCLK)" type="input"/>
+        <pin num="5" name="DATA0_(MISO)" type="output"/>
+        <pin num="6" name="DATA1_(x)" type="passive"/>
+        <pin num="7" name="DATA2_(x)" type="passive"/>
+        <pin num="9" name="CD/DATA3_(CS)" type="input"/>
+        <pin num="10" name="VSS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="tinyK20-rescue" part="R-RESCUE-tinyK20">
+      <footprints>
+        <fp>R?</fp>
+        <fp>SM0603</fp>
+        <fp>SM0805</fp>
+        <fp>R?-*</fp>
+        <fp>SM1206</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-RESCUE-tinyK20</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="SW_PUSH">
+      <description>Button</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="tinyK20-cache" part="USB-MINI-B">
+      <footprints>
+        <fp>USB-Mini-B-Jack</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">CON</field>
+        <field name="Value">USB-MINI-B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_in"/>
+        <pin num="2" name="D-" type="BiDi"/>
+        <pin num="3" name="D+" type="BiDi"/>
+        <pin num="4" name="ID" type="BiDi"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="SHELL1" type="BiDi"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="tinyK20-rescue">
+      <uri>/home/karibe/src/git/tinyk20/tinyK20-rescue.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>/usr/share/kicad/library/device.lib</uri>
+    </library>
+    <library logical="74xx">
+      <uri>/usr/share/kicad/library/74xx.lib</uri>
+    </library>
+    <library logical="regul">
+      <uri>/usr/share/kicad/library/regul.lib</uri>
+    </library>
+    <library logical="tinyK20-cache">
+      <uri>/home/karibe/src/git/tinyk20/tinyK20-cache.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(P15-Pad1)">
+      <node ref="U1" pin="46"/>
+      <node ref="P15" pin="1"/>
+    </net>
+    <net code="2" name="Net-(P32-Pad1)">
+      <node ref="U1" pin="29"/>
+      <node ref="P32" pin="1"/>
+    </net>
+    <net code="3" name="Net-(P31-Pad1)">
+      <node ref="U1" pin="30"/>
+      <node ref="P31" pin="1"/>
+    </net>
+    <net code="4" name="Net-(P30-Pad1)">
+      <node ref="U1" pin="31"/>
+      <node ref="P30" pin="1"/>
+    </net>
+    <net code="5" name="Net-(P29-Pad1)">
+      <node ref="U1" pin="32"/>
+      <node ref="P29" pin="1"/>
+    </net>
+    <net code="6" name="Net-(P13-Pad1)">
+      <node ref="P13" pin="1"/>
+      <node ref="U1" pin="48"/>
+    </net>
+    <net code="7" name="Net-(P14-Pad1)">
+      <node ref="P14" pin="1"/>
+      <node ref="U1" pin="47"/>
+    </net>
+    <net code="8" name="SWD_CLK">
+      <node ref="P7" pin="1"/>
+      <node ref="U1" pin="17"/>
+      <node ref="P35" pin="4"/>
+    </net>
+    <net code="9" name="Net-(P17-Pad1)">
+      <node ref="P17" pin="1"/>
+      <node ref="U1" pin="44"/>
+    </net>
+    <net code="10" name="Net-(P18-Pad1)">
+      <node ref="U1" pin="43"/>
+      <node ref="P18" pin="1"/>
+    </net>
+    <net code="11" name="Net-(P19-Pad1)">
+      <node ref="U1" pin="42"/>
+      <node ref="P19" pin="1"/>
+    </net>
+    <net code="12" name="Net-(P20-Pad1)">
+      <node ref="U1" pin="41"/>
+      <node ref="P20" pin="1"/>
+    </net>
+    <net code="13" name="SWD_IO">
+      <node ref="U1" pin="20"/>
+      <node ref="P35" pin="2"/>
+      <node ref="P10" pin="1"/>
+    </net>
+    <net code="14" name="PTC6">
+      <node ref="X3" pin="4"/>
+      <node ref="P22" pin="1"/>
+      <node ref="U3" pin="9"/>
+      <node ref="U1" pin="39"/>
+    </net>
+    <net code="15" name="Net-(P26-Pad1)">
+      <node ref="U1" pin="35"/>
+      <node ref="P26" pin="1"/>
+    </net>
+    <net code="16" name="PTB1">
+      <node ref="P33" pin="1"/>
+      <node ref="U1" pin="28"/>
+      <node ref="P38" pin="10"/>
+      <node ref="P36" pin="1"/>
+    </net>
+    <net code="17" name="PTB0">
+      <node ref="P34" pin="1"/>
+      <node ref="U3" pin="10"/>
+      <node ref="U1" pin="27"/>
+    </net>
+    <net code="18" name="Net-(JP2-Pad1)">
+      <node ref="P24" pin="1"/>
+      <node ref="U1" pin="37"/>
+      <node ref="JP2" pin="1"/>
+    </net>
+    <net code="19" name="Net-(JP3-Pad1)">
+      <node ref="U1" pin="36"/>
+      <node ref="JP3" pin="1"/>
+      <node ref="P25" pin="1"/>
+    </net>
+    <net code="20" name="LED">
+      <node ref="D2" pin="2"/>
+      <node ref="U1" pin="45"/>
+      <node ref="P16" pin="1"/>
+    </net>
+    <net code="21" name="GND">
+      <node ref="C4" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="P35" pin="3"/>
+      <node ref="P35" pin="5"/>
+      <node ref="P35" pin="9"/>
+      <node ref="C12" pin="2"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="C8" pin="2"/>
+      <node ref="P12" pin="1"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="U1" pin="23"/>
+      <node ref="U1" pin="2"/>
+      <node ref="CON1" pin="5"/>
+      <node ref="U2" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="X3" pin="10"/>
+      <node ref="L2" pin="1"/>
+      <node ref="C13" pin="2"/>
+      <node ref="L1" pin="1"/>
+      <node ref="U3" pin="7"/>
+    </net>
+    <net code="22" name="3V3">
+      <node ref="U1" pin="22"/>
+      <node ref="U1" pin="5"/>
+      <node ref="P3" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="U2" pin="3"/>
+      <node ref="P35" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="U1" pin="1"/>
+      <node ref="R5" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="P38" pin="1"/>
+      <node ref="L3" pin="2"/>
+      <node ref="C9" pin="1"/>
+    </net>
+    <net code="23" name="Net-(CON1-Pad6)">
+      <node ref="CON1" pin="6"/>
+      <node ref="CON1" pin="6"/>
+      <node ref="CON1" pin="6"/>
+      <node ref="L1" pin="2"/>
+    </net>
+    <net code="24" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="25" name="Net-(P9-Pad1)">
+      <node ref="P9" pin="1"/>
+      <node ref="U1" pin="19"/>
+    </net>
+    <net code="26" name="RESET">
+      <node ref="P4" pin="1"/>
+      <node ref="U1" pin="26"/>
+      <node ref="P35" pin="10"/>
+      <node ref="C11" pin="1"/>
+      <node ref="R5" pin="2"/>
+      <node ref="SW1" pin="2"/>
+    </net>
+    <net code="27" name="Net-(P8-Pad1)">
+      <node ref="U1" pin="18"/>
+      <node ref="P8" pin="1"/>
+    </net>
+    <net code="28" name="Net-(P5-Pad1)">
+      <node ref="P5" pin="1"/>
+      <node ref="U1" pin="7"/>
+    </net>
+    <net code="29" name="Net-(P6-Pad1)">
+      <node ref="U1" pin="8"/>
+      <node ref="P6" pin="1"/>
+    </net>
+    <net code="30" name="Net-(P11-Pad1)">
+      <node ref="P11" pin="1"/>
+      <node ref="U1" pin="21"/>
+    </net>
+    <net code="31" name="Net-(C3-Pad1)">
+      <node ref="U1" pin="10"/>
+      <node ref="R1" pin="2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="P1" pin="1"/>
+    </net>
+    <net code="32" name="Net-(C2-Pad1)">
+      <node ref="U1" pin="9"/>
+      <node ref="L3" pin="1"/>
+      <node ref="C2" pin="1"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="33" name="Net-(C7-Pad2)">
+      <node ref="U1" pin="13"/>
+      <node ref="C7" pin="2"/>
+    </net>
+    <net code="34" name="VCC">
+      <node ref="U3" pin="14"/>
+    </net>
+    <net code="35" name="Net-(P38-Pad2)">
+      <node ref="P38" pin="2"/>
+      <node ref="U3" pin="8"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="36" name="Net-(P38-Pad3)">
+      <node ref="P38" pin="5"/>
+      <node ref="P38" pin="3"/>
+    </net>
+    <net code="37" name="Net-(R3-Pad2)">
+      <node ref="U1" pin="4"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="38" name="Vregin">
+      <node ref="D1" pin="3"/>
+      <node ref="U1" pin="6"/>
+      <node ref="C1" pin="1"/>
+      <node ref="U2" pin="1"/>
+      <node ref="C8" pin="1"/>
+    </net>
+    <net code="39" name="Net-(R2-Pad2)">
+      <node ref="U1" pin="3"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="40" name="PTC7">
+      <node ref="P21" pin="1"/>
+      <node ref="R6" pin="1"/>
+      <node ref="X3" pin="5"/>
+      <node ref="U1" pin="40"/>
+    </net>
+    <net code="41" name="/x-">
+      <node ref="U1" pin="24"/>
+      <node ref="Y1" pin="1"/>
+    </net>
+    <net code="42" name="/x+">
+      <node ref="Y1" pin="2"/>
+      <node ref="U1" pin="25"/>
+    </net>
+    <net code="43" name="/xtal_N">
+      <node ref="U1" pin="15"/>
+      <node ref="Y2" pin="1"/>
+    </net>
+    <net code="44" name="/xtal_P">
+      <node ref="U1" pin="14"/>
+      <node ref="Y2" pin="2"/>
+    </net>
+    <net code="45" name="UART1_TX">
+      <node ref="P35" pin="8"/>
+      <node ref="P38" pin="8"/>
+      <node ref="JP2" pin="2"/>
+      <node ref="P37" pin="1"/>
+    </net>
+    <net code="46" name="UART1_RX">
+      <node ref="JP3" pin="2"/>
+      <node ref="P35" pin="7"/>
+      <node ref="P38" pin="7"/>
+    </net>
+    <net code="47" name="Vreg">
+      <node ref="CON1" pin="1"/>
+      <node ref="F1" pin="1"/>
+    </net>
+    <net code="48" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="P40" pin="1"/>
+    </net>
+    <net code="49" name="Net-(C10-Pad1)">
+      <node ref="D3" pin="3"/>
+      <node ref="U1" pin="16"/>
+      <node ref="C10" pin="1"/>
+    </net>
+    <net code="50" name="PTC1">
+      <node ref="U1" pin="34"/>
+      <node ref="P27" pin="1"/>
+      <node ref="X3" pin="9"/>
+    </net>
+    <net code="51" name="PTC0">
+      <node ref="P28" pin="1"/>
+      <node ref="X3" pin="2"/>
+      <node ref="U1" pin="33"/>
+    </net>
+    <net code="52" name="PTC5">
+      <node ref="X3" pin="3"/>
+      <node ref="P23" pin="1"/>
+      <node ref="P38" pin="4"/>
+      <node ref="U1" pin="38"/>
+    </net>
+    <net code="53" name="+3.3V">
+      <node ref="C12" pin="1"/>
+      <node ref="X3" pin="1"/>
+    </net>
+    <net code="54" name="Net-(C2-Pad2)">
+      <node ref="P2" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="U1" pin="12"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="L2" pin="2"/>
+      <node ref="U1" pin="11"/>
+    </net>
+    <net code="55" name="Net-(CON1-Pad4)">
+      <node ref="CON1" pin="4"/>
+    </net>
+    <net code="56" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="2"/>
+      <node ref="D1" pin="1"/>
+      <node ref="F1" pin="2"/>
+      <node ref="JP1" pin="2"/>
+      <node ref="JP1" pin="1"/>
+    </net>
+    <net code="57" name="Net-(P38-Pad6)">
+      <node ref="P38" pin="6"/>
+    </net>
+    <net code="58" name="Net-(P38-Pad9)">
+      <node ref="P38" pin="9"/>
+    </net>
+    <net code="59" name="Net-(X3-Pad7)">
+      <node ref="X3" pin="7"/>
+    </net>
+    <net code="60" name="Net-(X3-Pad6)">
+      <node ref="X3" pin="6"/>
+    </net>
+    <net code="61" name="Net-(P35-Pad6)">
+      <node ref="P35" pin="6"/>
+    </net>
+    <net code="62" name="/D+">
+      <node ref="CON1" pin="3"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="63" name="/D-">
+      <node ref="R3" pin="1"/>
+      <node ref="CON1" pin="2"/>
+    </net>
+  </nets>
+</export>
