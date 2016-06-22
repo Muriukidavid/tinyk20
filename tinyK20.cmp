@@ -1,0 +1,627 @@
+Cmp-Mod V01 Created by PcbNew   date = Fri 06 May 2016 17:59:23 EAT
+
+BeginCmp
+TimeStamp = 56E33656
+Path = /56D4DD17
+Reference = X3;
+ValeurCmp = MOLEX-MICRO-SD;
+IdModule  = micro_sd:105027-0001;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E334D2
+Path = /56D512D5
+Reference = F1;
+ValeurCmp = FUSE_F;
+IdModule  = Wire_Connections_Bridges:WireConnection_0.80mmDrill;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E3DADC
+Path = /55B6A915
+Reference = U1;
+ValeurCmp = MK20DX128VFT5;
+IdModule  = Housings_DFN_QFN:QFN-48-1EP_7x7mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E33461
+Path = /55B6A9BC
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E33467
+Path = /56D15CA5
+Reference = C2;
+ValeurCmp = 2.2u;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E3346D
+Path = /56D15CB4
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E33473
+Path = /56D157E2
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E33479
+Path = /56D157D3
+Reference = C5;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E3347F
+Path = /56D157C4
+Reference = C6;
+ValeurCmp = 2.2u;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E33485
+Path = /56D16C6E
+Reference = C7;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E3348B
+Path = /56D0C4B1
+Reference = C8;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E33491
+Path = /56D0C5A3
+Reference = C9;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E33497
+Path = /56D1BA48
+Reference = C10;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E3349D
+Path = /56D1CF97
+Reference = C11;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E334A3
+Path = /56D4C68D
+Reference = C12;
+ValeurCmp = 2.2u;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E334A9
+Path = /56D52776
+Reference = C13;
+ValeurCmp = 100n;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E334BF
+Path = /55B6A960
+Reference = D1;
+ValeurCmp = BAS40-05;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E334C5
+Path = /56D0C71A
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E334CC
+Path = /56D1BA57
+Reference = D3;
+ValeurCmp = BAS40-05;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E335C5
+Path = /56D15C8C
+Reference = R1;
+ValeurCmp = 470;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E335CB
+Path = /56D15352
+Reference = R2;
+ValeurCmp = 33;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E335D1
+Path = /56D15361
+Reference = R3;
+ValeurCmp = 33;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E335D7
+Path = /56D0C729
+Reference = R4;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E335DD
+Path = /56D1CB17
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E335E3
+Path = /56D51F77
+Reference = R6;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E335E9
+Path = /56D1C4B4
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = Buttons_Switches_SMD:SW_SPST_EVQPE1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E33625
+Path = /56D0C41D
+Reference = U2;
+ValeurCmp = LT1129CST-3.3;
+IdModule  = TO_SOT_Packages_SMD:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E33637
+Path = /56D518E7
+Reference = U3;
+ValeurCmp = 74LS126;
+IdModule  = SMD_Packages:SOIC-14_N;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E34147
+Path = /56D4F84D
+Reference = L1;
+ValeurCmp = INDUCTOR_F;
+IdModule  = Inductors_NEOSID:Neosid_Inductor_SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E3414C
+Path = /56D4F30C
+Reference = L2;
+ValeurCmp = INDUCTOR_F;
+IdModule  = Inductors_NEOSID:Neosid_Inductor_SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E34151
+Path = /56D4F638
+Reference = L3;
+ValeurCmp = INDUCTOR_F;
+IdModule  = Inductors_NEOSID:Neosid_Inductor_SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E362AF
+Path = /56D4EBDB
+Reference = JP1;
+ValeurCmp = JUMPER_F;
+IdModule  = Connect:PINHEAD1-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E362B4
+Path = /56D4E64D
+Reference = JP2;
+ValeurCmp = JUMPER_F;
+IdModule  = Connect:PINHEAD1-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E362B9
+Path = /56D4E666
+Reference = JP3;
+ValeurCmp = JUMPER_F;
+IdModule  = Connect:PINHEAD1-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E367B9
+Path = /56E57CAE
+Reference = Y1;
+ValeurCmp = Crystal;
+IdModule  = Crystals:ABM3;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E367BF
+Path = /56E58AF1
+Reference = Y2;
+ValeurCmp = Crystal_Small;
+IdModule  = Crystals:Crystal_Round_Horizontal_3mm_BigPad;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F24250
+Path = /56D181EB
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F24259
+Path = /56D181DC
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F24262
+Path = /56D181CD
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F2426B
+Path = /56D181BE
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F24274
+Path = /56D181AF
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F2427D
+Path = /56D181A0
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F24286
+Path = /56D18191
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F2428F
+Path = /56D18182
+Reference = P8;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F24298
+Path = /56D18173
+Reference = P9;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F242A1
+Path = /56D18164
+Reference = P10;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F242AA
+Path = /56D18155
+Reference = P11;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F242B3
+Path = /56D18146
+Reference = P12;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F242BC
+Path = /56D18137
+Reference = P13;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F242C5
+Path = /56D18128
+Reference = P14;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F242CE
+Path = /56D18119
+Reference = P15;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F242D7
+Path = /56D17DDD
+Reference = P16;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F242E0
+Path = /56D17DCE
+Reference = P17;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F242E9
+Path = /56D17DBF
+Reference = P18;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F242F2
+Path = /56D17DB0
+Reference = P19;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F242FB
+Path = /56D17DA1
+Reference = P20;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F24304
+Path = /56D17C06
+Reference = P21;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F2430D
+Path = /56D17BED
+Reference = P22;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F24316
+Path = /56D15A9F
+Reference = P23;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F2433A
+Path = /56D170C9
+Reference = P27;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F24343
+Path = /56D170EC
+Reference = P28;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F2434C
+Path = /56D173A7
+Reference = P29;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F24355
+Path = /56D17398
+Reference = P30;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F2435E
+Path = /56D170A1
+Reference = P31;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F24370
+Path = /56D16D83
+Reference = P33;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F24394
+Path = /56E8D6B9
+Reference = P41;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F2439D
+Path = /56D1BDE4
+Reference = VBATT1;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F3EF69
+Path = /56D173B6
+Reference = GND1;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PIN1;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F5B337
+Path = /55B6AB5B
+Reference = CON1;
+ValeurCmp = USB-MINI-B;
+IdModule  = Connect:USB_Micro-B;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F93D4E
+Path = /56D530C7
+Reference = P24;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PINC;
+EndCmp
+
+BeginCmp
+TimeStamp = 56F93D57
+Path = /56D530B8
+Reference = P37;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PINC;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FFEE8D
+Path = /56D16F5A
+Reference = P25;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PINC;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FFEE96
+Path = /56D16F69
+Reference = P26;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PINC;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FFEE9F
+Path = /56D16ED8
+Reference = P32;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PINC;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FFEEA8
+Path = /56E8AD8E
+Reference = P34;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PINC;
+EndCmp
+
+BeginCmp
+TimeStamp = 56FFEEB1
+Path = /56D16DAB
+Reference = P36;
+ValeurCmp = CONN_1;
+IdModule  = Connect:PINC;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E33DA8
+Path = /56D5175F
+Reference = P38;
+ValeurCmp = CONN_5X2;
+IdModule  = Connect:CONN-2x5-1.27-SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = 56E33D9B
+Path = /56D1C1DE
+Reference = P35;
+ValeurCmp = CONN_5X2;
+IdModule  = Connect:CONN-2x5-1.27-SMT;
+EndCmp
+
+EndListe

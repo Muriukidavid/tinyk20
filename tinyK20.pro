@@ -1,4 +1,4 @@
-update=Sat 12 Mar 2016 02:49:12 AM EAT
+update=Sat 28 May 2016 01:01:16 PM EAT
 version=1
 last_client=kicad
 [cvpcb]
@@ -8,14 +8,24 @@ NetIExt=net
 EquName1=devcms
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [pcbnew]
 version=1
 PageLayoutDescrFile=
 LastNetListRead=
-PadDrill=0.6
-PadDrillOvalY=0.6
-PadSizeH=1.5
-PadSizeV=1.5
+PadDrill=0
+PadDrillOvalY=0
+PadSizeH=1.9
+PadSizeV=2.4
 PcbTextSizeV=1.5
 PcbTextSizeH=1.5
 PcbTextThickness=0.3
@@ -64,3 +74,4 @@ LibName30=valves
 LibName31=tinyK20-cache
 LibName32=Freescale
 LibName33=BAS40-05
+LibName34=/home/joe--ngigi/Desktop/ki_cad/105027-0001/library/105027-0001
