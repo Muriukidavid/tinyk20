@@ -1,6 +1,6 @@
-update=Sat 28 May 2016 01:01:16 PM EAT
+update=Thu 12 Jan 2017 01:47:01 PM EAT
 version=1
-last_client=kicad
+last_client=eeschema
 [cvpcb]
 version=1
 NetIExt=net
@@ -74,4 +74,3 @@ LibName30=valves
 LibName31=tinyK20-cache
 LibName32=Freescale
 LibName33=BAS40-05
-LibName34=/home/joe--ngigi/Desktop/ki_cad/105027-0001/library/105027-0001
