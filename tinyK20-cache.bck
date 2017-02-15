@@ -1,7 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP MOLEX-MICRO-SD
-D Molex micro SD card
+$CMP 74AHC1G125
+D Quad buffer 3 State out
+K TTL Buffer 3State
 $ENDCMP
 #
 #End Doc Library
