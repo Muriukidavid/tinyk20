@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name tinyK20-rescue)(type Legacy)(uri ${KIPRJMOD}/tinyK20-rescue.lib)(options "")(descr ""))
+  (lib (name Freescale)(type Legacy)(uri ${KIPRJMOD}/Freescale.lib)(options "")(descr ""))
+  (lib (name BAS40-05)(type Legacy)(uri ${KIPRJMOD}/BAS40-05.lib)(options "")(descr ""))
+)
